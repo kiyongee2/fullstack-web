@@ -8,4 +8,4 @@ spring.datasource.hikari.password=pwboot<br>
 spring.jpa.hibernate.ddl-auto=create<br>
 spring.jpa.show-sql=true<br>
 spring.jpa.properties.hibernate.format_sql=true<br>
-spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect<br>
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect<br>
